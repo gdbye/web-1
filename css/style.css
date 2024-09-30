@@ -1,0 +1,10 @@
+.imga {
+  position: relative;
+}
+.tex {
+  color: black;
+  position: absolute;
+  top: 45%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  }
